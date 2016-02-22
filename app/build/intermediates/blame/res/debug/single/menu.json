@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\R206\\AndroidStudioProjects\\Interfragmentcommu\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\R206\\AndroidStudioProjects\\Interfragmentcommu\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\R206\\AndroidStudioProjects\\Interfragmentcommu\\app\\build\\intermediates\\res\\merged\\debug\\menu\\fraga.xml",
+        "source": "C:\\Users\\R206\\AndroidStudioProjects\\Interfragmentcommu\\app\\src\\main\\res\\menu\\fraga.xml"
+    },
+    {
+        "merged": "C:\\Users\\R206\\AndroidStudioProjects\\Interfragmentcommu\\app\\build\\intermediates\\res\\merged\\debug\\menu\\fragmentb.xml",
+        "source": "C:\\Users\\R206\\AndroidStudioProjects\\Interfragmentcommu\\app\\src\\main\\res\\menu\\fragmentb.xml"
+    }
+]

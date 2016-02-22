@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\R206\AndroidStudioProjects\Interfragmentcommu\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="C:\Users\R206\AndroidStudioProjects\Interfragmentcommu\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-19.1.0_df0f90442b694290a7480b47f2f259a1cd4e0a3e.jar" />
+    </item>
+    <item
+        jar="C:\Users\R206\AppData\Local\Android\sdk7\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\R206\AndroidStudioProjects\Interfragmentcommu\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_894f0c781343d5dae97324dbb9a0abcf3d0987bc.jar" />
+    </item>
+
+</items>
